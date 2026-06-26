@@ -1,6 +1,6 @@
 # Superstore Sales Analytics Dashboard | Power BI
 
-![Superstore Dashboard](EXECUTIVE%20SALES%20OVERVIEW.png)
+![Superstore Dashboard](EXECUTIVE SALES OVERVIEW.png)
 
 ## Project Overview
 
@@ -90,3 +90,5 @@ This project demonstrates how business data can be transformed into interactive 
 Aspiring Data Analyst
 
 **Skills:** Power BI | SQL | Python | Excel | DAX
+
+
