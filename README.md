@@ -4,7 +4,7 @@ An interactive **Sales Analytics Dashboard** built using **Power BI**, **DAX**, 
 
 ---
 
-# Project Overview
+# 📌 Project Overview
 
 The dashboard provides a comprehensive view of business performance by enabling users to:
 
@@ -17,7 +17,7 @@ The dashboard provides a comprehensive view of business performance by enabling 
 
 ---
 
-# Business Objective
+# 🎯 Business Objective
 
 The objective of this project is to help business stakeholders:
 
@@ -29,7 +29,7 @@ The objective of this project is to help business stakeholders:
 
 ---
 
-# Tools & Technologies
+# 🛠️ Tools & Technologies
 
 * Microsoft Power BI Desktop
 * Power Query
@@ -41,9 +41,9 @@ The objective of this project is to help business stakeholders:
 
 # 📈 Dashboard Pages
 
-## 1️ Executive Sales Overview
+## 1️⃣ Executive Sales Overview
 
-![Executive Sales Overview](EXECUTIVE SALES OVERVIEW.png)
+![Executive Sales Overview](Images/Executive%20Sales%20Overview.png)
 
 ### Dashboard Highlights
 
@@ -63,9 +63,9 @@ The objective of this project is to help business stakeholders:
 
 ---
 
-## 2️ Product Performance Analysis
+## 2️⃣ Product Performance Analysis
 
-![Product Performance Analysis](PRODUCT PERFORMANCE ANALYSIS.png)
+![Product Performance Analysis](Images/Product%20Performance%20Analysis.png)
 
 ### Dashboard Highlights
 
@@ -79,9 +79,9 @@ The objective of this project is to help business stakeholders:
 
 ---
 
-## 3️ Customer & Regional Insights
+## 3️⃣ Customer & Regional Insights
 
-![Customer & Regional Insights](CUSTOMER REGIONAL INSIGHTS.png)
+![Customer & Regional Insights](Images/Customer%20%26%20Regional%20Insights.png)
 
 ### Dashboard Highlights
 
@@ -125,12 +125,26 @@ The objective of this project is to help business stakeholders:
 
 | Executive Sales Overview                     | Product Performance Analysis                     | Customer & Regional Insights                         |
 | -------------------------------------------- | ------------------------------------------------ | ---------------------------------------------------- |
-| ![](EXECUTIVE SALES OVERVIEW.png)            | ![](PRODUCT PERFORMANCE ANALYSIS.png)            | ![](CUSTOMER REGIONAL INSIGHTS.png) |
+| ![](Images/Executive%20Sales%20Overview.png) | ![](Images/Product%20Performance%20Analysis.png) | ![](Images/Customer%20%26%20Regional%20Insights.png) |
 
 ---
 
+# 📂 Repository Structure
 
-# Future Enhancements
+```text
+powerbi-superstore-sales-dashboard
+│
+├── README.md
+├── Dashboard.pdf
+├── Images
+│   ├── Executive Sales Overview.png
+│   ├── Product Performance Analysis.png
+│   └── Customer & Regional Insights.png
+```
+
+---
+
+# 🚀 Future Enhancements
 
 * Sales Forecasting
 * Customer Retention Analysis
@@ -141,7 +155,7 @@ The objective of this project is to help business stakeholders:
 
 ---
 
-#  Author
+# 👩‍💻 Author
 
 **Aysha Fina**
 
