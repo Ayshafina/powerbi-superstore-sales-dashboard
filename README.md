@@ -1,162 +1,92 @@
-# 📊 Superstore Sales Analytics Dashboard | Power BI
+# Superstore Sales Analytics Dashboard | Power BI
 
-An interactive **Sales Analytics Dashboard** built using **Power BI**, **DAX**, **Power Query**, and **Excel** to analyze sales performance, profitability, customer behavior, product performance, and regional trends. This project transforms raw sales data into meaningful business insights through interactive visualizations and KPI dashboards.
+![Superstore Dashboard](EXECUTIVE%20SALES%20OVERVIEW.png)
 
----
+## Project Overview
 
-# 📌 Project Overview
+This project is an interactive Power BI dashboard built using the Superstore dataset. It provides insights into sales performance, profitability, customer behavior, product performance, and regional trends.
 
-The dashboard provides a comprehensive view of business performance by enabling users to:
-
-* Monitor Sales, Profit, Orders, Customers, and Quantity
-* Compare Current Year vs Previous Year performance
-* Analyze Product and Category performance
-* Identify Top Customers and Customer Segments
-* Evaluate Regional Sales and Profitability
-* Discover business trends for better decision-making
+The goal of this project is to transform raw sales data into meaningful business insights through interactive visualizations and KPI dashboards.
 
 ---
 
-# 🎯 Business Objective
+## Tools Used
 
-The objective of this project is to help business stakeholders:
-
-* Track overall sales performance
-* Identify profitable products and customer segments
-* Monitor regional business performance
-* Understand customer purchasing behavior
-* Support strategic, data-driven decisions
+- Power BI
+- Microsoft Excel
+- Power Query
+- DAX
+- Data Modeling
 
 ---
 
-# 🛠️ Tools & Technologies
+## Dataset
 
-* Microsoft Power BI Desktop
-* Power Query
-* DAX (Data Analysis Expressions)
-* Microsoft Excel
-* Data Modeling
+The dataset includes:
 
----
-
-# 📈 Dashboard Pages
-
-## 1️⃣ Executive Sales Overview
-
-![Executive Sales Overview](Images/Executive%20Sales%20Overview.png)
-
-### Dashboard Highlights
-
-* Total Sales
-* Total Profit
-* Profit Margin
-* Total Orders
-* Total Customers
-* Total Quantity
-* Monthly Sales Trend
-* Monthly Profit Trend
-* Sales by Region
-* Sales by Segment
-* Best Performing Region
-* Highest Sales Month
-* Top Customer Segment
+- Order Details
+- Customer Details
+- Product Details
+- Sales
+- Profit
+- Quantity
+- Discount
+- Region
+- Segment
+- Order Date
 
 ---
 
-## 2️⃣ Product Performance Analysis
+## Dashboard Pages
 
-![Product Performance Analysis](Images/Product%20Performance%20Analysis.png)
+### Executive Sales Overview
 
-### Dashboard Highlights
+![Executive Sales Overview](EXECUTIVE%20SALES%20OVERVIEW.png)
 
-* Top Selling Product
-* Top Profitable Product
-* Category-wise Profit Analysis
-* Discount Impact on Profit
-* Top Products by Sales
-* Most Profitable Subcategories
-* Product Performance Treemap
+### Product Performance Analysis
 
----
+![Product Performance Analysis](PRODUCT%20PERFORMANCE%20ANALYSIS.png)
 
-## 3️⃣ Customer & Regional Insights
+### Customer & Regional Insights
 
-![Customer & Regional Insights](Images/Customer%20%26%20Regional%20Insights.png)
-
-### Dashboard Highlights
-
-* Top Customer by Sales
-* Top Customer by Profit
-* Customer Growth Trend
-* Customer Sales vs Profit Analysis
-* Customer Segment Analysis
-* Top 10 Customers by Sales
-* Regional Contribution Analysis
+![Customer & Regional Insights](CUSTOMER%20REGIONAL%20INSIGHTS.png)
 
 ---
 
-# 📊 Key Business Insights
+## Key Insights
 
-* Consumer Segment generated the highest overall sales.
-* The West region achieved the highest sales performance.
-* Technology products contributed the highest profit.
-* A few top-performing products generated a significant portion of total revenue.
-* Higher discounts reduced profitability for several products.
-* Customer growth fluctuated throughout the year, indicating seasonal sales patterns.
-
----
-
-# 💡 Skills Demonstrated
-
-* Data Cleaning & Transformation
-* Power Query
-* Data Modeling
-* DAX Measures
-* Time Intelligence
-* KPI Development
-* Interactive Dashboard Design
-* Business Intelligence Reporting
-* Data Visualization
-* Business Storytelling
+- Identified the best-performing region based on sales.
+- Analyzed monthly sales and profit trends.
+- Identified top-selling and most profitable products.
+- Evaluated customer purchasing behavior across different segments.
+- Compared sales and profit across regions.
+- Built interactive dashboards for business decision-making.
 
 ---
 
-# 📷 Dashboard Preview
+## Skills Demonstrated
 
-| Executive Sales Overview                     | Product Performance Analysis                     | Customer & Regional Insights                         |
-| -------------------------------------------- | ------------------------------------------------ | ---------------------------------------------------- |
-| ![](Images/Executive%20Sales%20Overview.png) | ![](Images/Product%20Performance%20Analysis.png) | ![](Images/Customer%20%26%20Regional%20Insights.png) |
-
----
-
-# 📂 Repository Structure
-
-```text
-powerbi-superstore-sales-dashboard
-│
-├── README.md
-├── Dashboard.pdf
-├── Images
-│   ├── Executive Sales Overview.png
-│   ├── Product Performance Analysis.png
-│   └── Customer & Regional Insights.png
-```
+- Power BI Dashboard Development
+- Data Cleaning
+- Power Query
+- DAX
+- Data Modeling
+- KPI Development
+- Data Visualization
+- Business Intelligence
 
 ---
 
-# 🚀 Future Enhancements
+## Project Outcome
 
-* Sales Forecasting
-* Customer Retention Analysis
-* Dynamic What-if Analysis
-* Mobile-Optimized Dashboard
-* SQL Database Integration
-* Automated Data Refresh
+This project demonstrates how business data can be transformed into interactive dashboards that enable stakeholders to monitor KPIs, identify trends, and make informed business decisions.
 
 ---
 
-# 👩‍💻 Author
+## Author
 
 **Aysha Fina**
 
-**Aspiring Data Analyst | Power BI | SQL | Python | Excel**
+Aspiring Data Analyst
+
+**Skills:** Power BI | SQL | Python | Excel | DAX
